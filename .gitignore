@@ -1,0 +1,11 @@
+# Code editors and platform specified files.
+.DS_Store
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Dart dependencies and lockfiles.
+.dart_tool/
+build/
+pubspec.lock
