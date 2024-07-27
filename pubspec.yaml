@@ -1,6 +1,5 @@
 name: strict_lints
 description: A linter rules set that enable as much linter options as possible.
-publish_to: none
 version: 0.2.0
 repository: https://github.com/treeinfra/strict_lints
 environment: {sdk: ">=3.4.3 <4.0.0"}
